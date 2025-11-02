@@ -1,6 +1,6 @@
 :root {
   --bg-color: navy;
-  --bg-color1: rgb(212, 157, 85);
+  --bg-color1: rgb(146, 90, 16);
 }
 
 * {
@@ -15,7 +15,7 @@ body {
   width: 100vw;
   height: 100vh;
   display: grid;
-  grid-template-columns: repeat(3, 1fr);
+  grid-template-columns: repeat(2, 1fr);
   place-items: center;
   border: #000 2px solid;
 }
